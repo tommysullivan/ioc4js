@@ -1,0 +1,13 @@
+{
+  "name": "ioc4js",
+  "version": "0.0.1",
+  "description": "IOC 4 JS is a non-invasive inversion of control container / dependency injection framework for JavaScript",
+  "repository": "https://github.com/tommysullivan/ioc4js",
+  "dependencies": {
+    "collections": "tommysullivan/collections"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "chai": "latest"
+  }
+}
